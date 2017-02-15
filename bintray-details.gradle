@@ -56,5 +56,4 @@ bintray {
             }
         }
     }
-    override = true
 }
